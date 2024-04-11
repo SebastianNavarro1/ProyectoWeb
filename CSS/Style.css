@@ -1,6 +1,10 @@
 body {
-    background-color:#2f873c;
-  }
+    background-color:#1a5f25;
+    background-image: url('../IMG/parquevicente.jpg');
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
   .carousel-inner > .carousel-item   > img {
     width:640px;
     height:640px;
@@ -9,9 +13,14 @@ h1{
     text-align: center;
     color: rgb(82, 178, 178);
 }
+h2{
+    text-align: center;
+    color: rgb(1, 4, 2);
+    margin-top: auto;
+}
 h3{
     text-align: center;
-    color: black;
+    color: rgb(1, 4, 2);
     margin-top: auto;
 }
 header {
@@ -41,5 +50,8 @@ footer {
     max-width: 600px; 
     margin: 0 auto; 
 }
-
+article {
+    text-align: center; 
+    margin: 20px auto; 
+} 
 
