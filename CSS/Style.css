@@ -1,6 +1,5 @@
 body {
     background-color:#1a5f25;
-    background-image: url('../IMG/parquevicente.jpg');
     background-size: cover;
     margin: 0;
     padding: 0;
@@ -18,9 +17,15 @@ h2{
     color: rgb(1, 4, 2);
     margin-top: auto;
 }
+.Puyehue {
+    color: #f56403fe;
+}
+.Pumalin {
+    color: #03f5b4fe;
+}
 h3{
     text-align: center;
-    color: rgb(1, 4, 2);
+    color: rgb(7, 13, 10);
     margin-top: auto;
 }
 header {
