@@ -45,8 +45,8 @@ a{
     color: #fff;
 }
 
-.container p{
-    margin-bottom: 35px;
+.container h6{
+    margin-bottom: 30px;
 }
 
 .input-row{
@@ -65,6 +65,12 @@ input{
     outline: 1px solid black;
     border-bottom: 2px solid black;
     padding-bottom: 5px;
+}
+
+button{
+    width: 100px;
+    border: none;
+    outline: none;
 }
 
 textarea{
