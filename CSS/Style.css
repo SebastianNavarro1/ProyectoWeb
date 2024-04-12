@@ -2,3 +2,31 @@ body {
     background-color:#2f873c;
     
   }
+
+
+  header{
+    background-color:#35af64;
+    
+  }
+
+  .container {
+    background-color: greenyellow;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 600px;
+ }
+
+ .main {
+  padding-left: 35px;
+  display: flex;
+}
+footer {
+  background-color: #34495e;
+  color: white;
+  text-align: center;
+  padding: 5px;
+
+  bottom: 0;
+  width: 100%;
+}
